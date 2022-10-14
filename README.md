@@ -1,5 +1,10 @@
 # Craigslist Vehicle Data Cleaning
 
+### Data Source
+
+The data was found on Kaggle.com at https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+I decided to use this data source as it is very large and allow plentyful explorationg and experimentation
+
 ### Origin of the Project
 
 When taking a "Descriptive Analytics" course at Stetson University, I completed the first verison of this project.
@@ -13,6 +18,10 @@ This version is a rework of that same project but this time done through Python 
 Using the tricks I learned in class, I used Tableau Public to create a dynamic visualization that allows filtering the data by a few useful metrics.
 
 The final Tableau Public visualization can be found here
+
+### Python Cleaning
+
+The cleaning is very simple and mostly removes bad faith, repeat, and incomplete listings.
 
 https://public.tableau.com/app/profile/pavel.i.yurchenko/viz/CraiglistVehiclesV1/Dashboard
 
