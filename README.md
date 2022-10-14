@@ -1,11 +1,16 @@
-# CraigslistVehicleDataCleaning
+# Craigslist Vehicle Data Cleaning
 
-This is a project carried over from university courses.
+### Origin of the Project
 
-Originally the cleaning was done through Excel and visualizations were done through a student licence version of Tableau
+When taking a "Descriptive Analytics" course at Stetson University, I completed the first verison of this project.
+The data was cleaned using Excel and visualizations were made with a student licence of Tableau
 
-This version is a reword of that same project but this time done through Python (and later R which is not featured here).
-Using the tricks I learned in Tableau, I used Tableau Public to create a dynamic visualization that allows filtering the data by a few useful metrics.
+The project scope was the same and cleaning was done identically as seen here. The visualizations were not dynamic and were presented in class via PowerPoint.
+
+### New Version
+
+This version is a rework of that same project but this time done through Python (and later R which is not featured here).
+Using the tricks I learned in class, I used Tableau Public to create a dynamic visualization that allows filtering the data by a few useful metrics.
 
 The final Tableau Public visualization can be found here
 
