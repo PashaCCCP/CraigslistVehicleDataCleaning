@@ -23,5 +23,7 @@ The final Tableau Public visualization can be found here
 
 The cleaning is very simple and mostly removes bad faith, repeat, and incomplete listings.
 
+### Visualization
+The Tableau Public Visualization can be found here:
 https://public.tableau.com/app/profile/pavel.i.yurchenko/viz/CraiglistVehiclesV1/Dashboard
 
