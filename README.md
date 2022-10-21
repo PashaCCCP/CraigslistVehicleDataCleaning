@@ -7,8 +7,8 @@ I decided to use this data source as it is very large and allow plentyful explor
 
 ### Origin of the Project
 
-When taking a "Descriptive Analytics" course at Stetson University, I completed the first verison of this project.
-The data was cleaned using Excel and visualizations were made with a student licence of Tableau
+When taking a "Descriptive Analytics" course at Stetson University, I completed the first version of this project.
+The data was cleaned using Excel and visualizations were made with a student license of Tableau
 
 The project scope was the same and cleaning was done identically as seen here. The visualizations were not dynamic and were presented in class via PowerPoint.
 
